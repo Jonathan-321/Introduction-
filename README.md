@@ -1,5 +1,5 @@
 - 👋 Hi There, I’m Jonathan Muhire
-- 👀 I’m interested in in computer systems that can augment human capbilities and productivity. 
+- 👀 I’m interested in in computer systems that can augment human capabilities and productivity. 
 - 🌱 I’m currently programming in Python, Firebase, Flutter and C++
 - 💞️ I'm looking forward to sharing knowledge on this platform, ranging from Machine learning, Internet-of-things , AI and more
 - 📫 How to reach me Twitter @muhirejonatha14, or message me on LinkedIn
